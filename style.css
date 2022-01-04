@@ -10,16 +10,16 @@ body{
     color: rgb(252, 251, 246);
     text-decoration: underline;
 }
-.v4-section{
+section{
     display: flex;
 }
-.about-v4{
+.about{
     width: 50%;
     margin: 20px;
     padding: 25px;
 } 
 
-.v4-crd{
+.crd{
     width: 70%;
     height: 250px;
     margin-top: 120px;
@@ -28,13 +28,27 @@ body{
     box-shadow: 5px 6px 10px;
 
 }
-.about-v4 h2{
+.crd h2{
     text-align: center;
     font-weight: 700;
     color: rgba(15, 97, 7, 0.712);
 }
-.about-v4 h3{
+.about h3{
     text-align: center;
 }
+.crd a{
+    text-decoration: none;  
+    font-weight: 500;
+    padding: 3px;
+    background-color: rgb(8, 174, 216);
+    color: rgb(252, 251, 246);
+    border: solid rgb(221, 203, 203) 3px;
+    border-radius: 5px;
     
+}
+.img-v3{
+    width: 100%;
+}
+
+   
    
