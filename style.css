@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 193, 79);
+    font-family: 'Roboto', sans-serif;
+}
+.title{
+    font-weight: 900;
+    text-align: center;
+    color: rgb(252, 251, 246);
+    text-decoration: underline;
+}
+.v4-section{
+    display: flex;
+}
+.about-v4{
+    width: 50%;
+    margin: 20px;
+    padding: 25px;
+} 
+
+.v4-crd{
+    width: 70%;
+    height: 250px;
+    margin-top: 120px;
+    margin-left: 130px;
+    border: white solid 5px;
+    box-shadow: 5px 6px 10px;
+
+}
+.about-v4 h2{
+    text-align: center;
+    font-weight: 700;
+    color: rgba(15, 97, 7, 0.712);
+}
+.about-v4 h3{
+    text-align: center;
+}
+    
+   
